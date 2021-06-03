@@ -1,0 +1,122 @@
+[
+    {
+        "item" : "SCP-002",
+        "class" : "Euclid",
+        "description" : "SCP-002 resembles a tumorous, fleshy growth with a volume of roughly 60 m³ (or 2000 ft³). An iron valve hatch on one side leads to its interior, which appears to be a standard low-rent apartment of modest size. One wall of the room possesses a single window, though no such opening is visible from the exterior. The room contains furniture which, upon close examination, appears to be sculpted bone, woven hair, and various other biological substances produced by the human body. All matter tested thus far show independent or fragmented DNA sequences for each object in the room.",
+        "image" : "./images/SCP-002 resize.jpg"
+    },
+    {
+        "item" : "SCP-003",
+        "class" : "Euclid",
+        "description" : "SCP-003 consists of two related components of separate origin, referred to as SCP-003-1 and SCP-003-2. SCP-003-1 appears to be composed of chitin, hair, and nails of unknown biology, arranged in a configuration similar to that of a computer motherboard. Testing reveals SCP-003-1 to predate earliest known circuit boards by a factor of thousands of years. SCP-003-1 is considered sentient but not actively dangerous except under certain conditions.",
+        "image" : "./images/SCP-003 resize.jpg"
+    },
+    {
+        "item" : "SCP-004",
+        "class" : "Euclid",
+        "description" : "SCP-004 consists of an old wooden barn door (SCP-004-1) and a set of twelve rusted steel keys (SCP-004-2 through SCP-004-13). The door itself is the entrance to an abandoned factory in [DATA EXPUNGED].",
+        "image" : "./images/SCP-004 resize.jpg"
+    },
+    {
+        "item" : "SCP-005",
+        "class" : "Safe",
+        "description" : "In appearance, SCP-005 resembles an ornate key, displaying the characteristics of a typical mass produced key used in the 1920s. The key was discovered when a civilian used it to infiltrate a high security facility. SCP-005 seems to have the unique ability to open any and all forms of lock (See Appendix A), be they mechanical or digital, with relative ease. The origin of this ability has yet to be determined.",
+        "image" : "./images/SCP-005 resize.jpg"
+    },
+    {
+        "item" : "SCP-006",
+        "class" : "Safe",
+        "description" : "SCP-006 is a very small spring located 60 km west of Astrakhan. Foundation Command was aware of its existence since the 19th century, but were unable to secure it until 1991 due to political reasons. On the spot of the spring, a chemical factory has been constructed as a disguise, with the majority of laborers under Foundation and/or Russian control. The liquid emitted from the spring has been chemically identified as simple mineral water in 1902, but has the unusual property of health.",
+        "image" : "./images/SCP-006 resize.jpg"
+    },
+    {
+        "item" : "SCP-007",
+        "class" : "Euclid",
+        "description" : "SCP-007 is located within a cavity in the abdomen of Subject. Subject is a Caucasian male, physically approximately 25 years of age (subject claims to be 28) and 176 cm in height. Most of Subject's abdomen (muscles, skin, and organs) is absent, though Subject does not appear to suffer because of this. Instead of normal flesh, a sphere composed of soil and water is present, though it does not actually come into contact with Subject's body at any point.",
+        "image" : "./images/SCP-007 resize.jpg"
+    },
+    {
+        "item" : "SCP-008",
+        "class" : "Euclid",
+        "description" : "SCP-008 is a complex prion, samples of which are stored in each of the known G2 sites. Research into SCP-008 is highly classified and primarily aimed at preventing research which may lead to the synthesis of SCP-008 in the distant future. ",
+        "image" : "./images/SCP-008 resize.jpg"
+    },
+    {
+        "item" : "SCP-009",
+        "class" : "Euclid",
+        "description" : "SCP-009 is approximately __ liters of a substance which superficially resembles distilled water (H2O), except with a distinct bright red hue. This red hue is discernible in all phases, and serves as the most expedient method of identifying contaminated matter before its anomalous properties manifest. In contrast to mundane water, SCP-009 assumes a liquid phase at temperatures between -100°C and 0°C, and a solid state above those temperatures. At temperatures below -100°C, SCP-009 vaporizes into a gaseous phase similar to steam.",
+        "image" : "./images/SCP-009 resize.jpg"
+    },
+    {
+        "item" : "SCP-010",
+        "class" : "Safe",
+        "description" : "SCP-010 consists of a series of six (6) apparently identical cast iron collars with numbered metal tags and one (1) remote control. The control is SCP-010-1. The collars are SCP-010-2 through 010-7. The collars contain intricate electronic components and are powered by small (5 mm diameter, 2 mm thick) 100 V batteries. These batteries are rechargeable.",
+        "image" : "./images/SCP-010 resize.jpg"
+    },
+    {
+        "item" : "SCP-011",
+        "class" : "Safe",
+        "description" : " SCP-011 is a Civil War memorial statue located in Woodstock, Vermont. The statue is the image of a young male soldier holding a musket at his side, and is carved out of granite quarried within the area. Occasionally, SCP-011 has been observed lifting its musket to the sky to fire at birds which attempt to land or defecate on it.",
+        "image" : "./images/SCP-011 resize.jpg"
+    },
+    {
+        "item" : "SCP-012",
+        "class" : "Euclid",
+        "description" : "SCP-012 was retrieved by Archaeologist K.M. Sandoval during the excavation of a northern Italian tomb destroyed in a recent storm. The object, a piece of handwritten musical score entitled 'On Mount Golgotha', part of a larger set of sheet music, appears to be incomplete. The red/black ink, first thought to be some form of berry or natural dye ink, was later found to be human blood from multiple subjects.",
+        "image" : "./images/SCP-012 resize.jpg"
+    },
+    {
+        "item" : "SCP-013",
+        "class" : "Safe",
+        "description" : "SCP-013 is the collective designation of 242 cigarettes which display similar anomalies. The most common external detail between instances is the presence of the words “Blue Lady” hand-written on each cigarette in blue ink.",
+        "image" : "./images/SCP-013 resize.jpg"
+    },
+    {
+        "item" : "SCP-014",
+        "class" : "Safe",
+        "description" : "SCP-014 is a Caucasian male, appearing to be approximately 30 years of age, with black hair, brown eyes, and a somewhat round face. Records indicate his name to be Robert Chetford, confined in 1915 to the Norwich Asylum in Connecticut for delusional insanity, claiming that he had been cursed to live forever, and was slowly turning into concrete in consequence.",
+        "image" : "./images/SCP-014 resize.jpg"
+    },
+    {
+        "item" : "SCP-015",
+        "class" : "Euclid",
+        "description" : "SCP-015 is a mass of pipes, vents, boilers and other various plumbing apparatus completely filling a warehouse in ______ . The pipes appear to grow when not under observation, attempting to connect to nearby structures via sewer systems and underground plumbing. SCP-015 contains, at current estimate, over 190 kilometers (120 miles) of pipes, ranging in diameter from 2.5 cm to over 1 m.",
+        "image" : "./images/SCP-015 resize.jpg"
+    },
+    {
+        "item" : "SCP-016",
+        "class" : "Keter",
+        "description" : "SCP-016 is a blood-borne pathogen recovered from a mine worker in ____ who injured himself while working in a deep coal seam. Said wound became contaminated with coal dust from the mine, possibly infecting the worker with dormant spores. Over the next several days, SCP-016 proceeded to infect the remaining employees at the mining camp, as well as the CDC crisis team dispatched to deal with the epidemic.",
+        "image" : "./images/SCP-016 resize.jpg"
+    },
+    {
+        "item" : "SCP-017",
+        "class" : "Keter",
+        "description" : "SCP-017 is a humanoid figure approximately 80 centimeters in height, anatomically similar to a small child, but with no discernible identifying features. SCP-017 seems to be composed of a shadowy, smoke-like shroud. No attempt to find any object beneath the shroud has been successful, but the possibility has not been ruled out.",
+        "image" : "./images/SCP-017 resize.jpg"
+    },
+    {
+        "item" : "SCP-018",
+        "class" : "Euclid",
+        "description" : "SCP-018 has the appearance of a Super Ball made by the Wham-O company in 1969. It is six (6) centimeters in diameter and coloured red. Found when the _________ company was hired to clean out a warehouse that had Wham-O merchandise in it, SCP-018 was noted to be able to bounce with extreme height. At first thought to be a pleasant child's toy, SCP-018 was able to bounce with over two hundred percent (200%) efficiency (that is, if dropped one (1) meter, it would bounce two (2), then four (4), then eight (8), then sixteen (16)).",
+        "image" : "./images/SCP-018 resize.jpg"
+    },
+    {
+        "item" : "SCP-019",
+        "class" : "Keter",
+        "description" : "SCP-019 appears to be a very large ceramic vase, 1.8 m in diameter at the mouth and 2.4 m high. Style and decoration indicate it was created in Classical Greece, although conclusive dating is impossible, as the surface is entirely unbreakable by any known means. If a successful method is discovered, SCP-019 is to be destroyed with prejudice.",
+        "image" : "./images/SCP-019 resize.jpg"
+    },
+    {
+        "item" : "SCP-020",
+        "class" : "Keter",
+        "description" : "SCP-020 is a fast-spreading fungal organism that is capable of affecting the senses and behavior of living creatures, including humans. Samples of SCP-020 exhibit an unknown effect that renders them effectively invisible to direct observation, even when under a microscope. SCP-020 is only visible to humans when viewed through photographic or video surveillance.",
+        "image" : "./images/SCP-020 resize.jpg"
+    },
+    {
+        "item" : "SCP-021",
+        "class" : "Safe",
+        "description" : "SCP-021 takes the form of a large and elaborate tattoo of a serpentine dragon in the oriental style, covering approximately 0.8 square meters of skin. This tattoo is fully animate within the confines of its host's skin and behaves largely as a normal animal would, albeit in only two dimensions. The tattoo's movement causes constant pain to its host, comparable and similar in character to simultaneous tattooing and tattoo removal on a large scale.",
+        "image" : "./images/SCP-021 resize.jpg"
+    }
+]

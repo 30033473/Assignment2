@@ -9,7 +9,7 @@ const Scp = ({scpinfo}) => {
                         <div className="container">
                             <div className="row row-cols-sm-2 cols-md-3 g-3"></div>
                                 <div className="card shadow-lg bg-dark">
-                                    <img className="mx-auto d-block w-50" src={scp.image} />
+                                    <img className="mx-auto d-block w-50" alt="scp image" src={scp.image} />
                                     <div className="col-md-12">
                                         <div className="card-body text-warning">
                                             <h1 className="card-title text-center">{scp.item}</h1>

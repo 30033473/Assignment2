@@ -9,7 +9,7 @@ class Footer extends Component
             <footer class="text-muted py-5">
             <div class="container">
               <p class="float-end mb-1">
-                <a>
+                <a href="#">
                   
                   <img className="w-25" alt="Back to Top" src={logo}/>
                 

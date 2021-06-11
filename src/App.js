@@ -15,10 +15,10 @@ class App extends Component{
     state = { scpinfo: [] }
     componentDidMount()
     {
-    fetch('https://testapi-7981.restdb.io/rest/scpdata', {
+    fetch('https://testapi-7981.restdb.io/rest/scpjson', {
         "async": true,
   "crossDomain": true,
-  "url": "https://testapi-7981.restdb.io/rest/scpdata",
+  "url": "https://testapi-7981.restdb.io/rest/scpjson",
   "method": "GET",
   "headers": {
     "content-type": "application/json",

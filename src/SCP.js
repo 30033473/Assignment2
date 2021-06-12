@@ -6,11 +6,12 @@ const Scp = ({scpinfo}) => {
         {
             scpinfo.map(
                 (scp) => (
-                    <div className="album py-5 bg-dark">
+                    <div className="album py-5">
                         <div className="container">
                             <div className="row row-cols-sm-2 cols-md-3 g-3"></div>
-                                <div className="card shadow-lg bg-dark">
-                                    <img className="mx-auto d-block w-50" alt="scp" src={scp.image} />
+                                <div className="card shadow bg-dark">
+                                    <br></br>
+                                    <img className="mx-auto d-block w-50 border border-secondary rounded" alt="scp" src={scp.image} />
                                     <div className="col-md-12">
                                         <div className="card-body text-warning">
                                             <h1 className="card-title text-center">{scp.item}</h1>
